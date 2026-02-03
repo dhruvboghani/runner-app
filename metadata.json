@@ -1,0 +1,8 @@
+
+{
+  "name": "Dhruv Boghani - Mobile Run Tracker",
+  "description": "A high-performance mobile-first running tracker that monitors live steps, distance, and pace, designed for elite performance tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

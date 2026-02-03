@@ -1,0 +1,18 @@
+
+{
+  "name": "Dhruv Boghani Run Tracker",
+  "short_name": "DhruvRun",
+  "description": "Professional-grade mobile run and step tracker.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4f772d",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5531/5531063.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
